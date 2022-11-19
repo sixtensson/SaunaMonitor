@@ -37,7 +37,7 @@ For this project you need a micro controller with LoRa support and sensors to ga
 
 
 | Component | Description        |Price (SEK)| Supplier|
-| --------- | ---------------- |||
+| --------- | ---------------- | ---: | --- |
 | [FiPy](https://pycom.io/product/fipy/)   | ESP32 development board from Pycom |*|Pycom/Electrokit|
 | [Pysense 2.0 X](https://pycom.io/product/pysense-2-0-x/)   | Shield from Pycom with onboard sensors |*|Pycom/Electrokit|
 | [LoRa / Sigfox Antenna](https://pycom.io/product/lora-868mhz-915mhz-sigfox-antenna-kit/) | External antenna for LoRa/Sigfox |*| Pycom/Electrokit|
