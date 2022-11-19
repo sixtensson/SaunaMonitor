@@ -17,7 +17,6 @@
 - [The physical network layer](#The-physical-network-layer)
 - [Visualisation and user interface](#Visualisation-and-user-interface)
 - [Finalizing the design](#Finalizing-the-design)
-- [Next step????](#Next-step)
 
 
 ### Project overview
